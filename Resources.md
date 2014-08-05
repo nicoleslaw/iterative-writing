@@ -1,6 +1,6 @@
 # Resources
 
-## Further Reading
+## Further reading
 
 * [Deploy](http://aworkinglibrary.com/writing/deploy/), Mandy Brown
 * [Working in Public](http://chriscoyier.net/2012/09/23/working-in-public/), Chris Coyier
@@ -13,7 +13,7 @@
 * [Barriers to Scholarship and Iterative Writing](http://www.scottbot.net/HIAL/?p=40622), Scott Weingart
 * [Interview with David Shields](http://logger.believermag.com/post/48351697731/i-hadnt-yet-found-the-form-that-released-my-best), *The Believer*
 
-## Markdown Editors
+## Markdown editors
 
 * [Byword](http://bywordapp.com)
 * [Dillinger](http://dillinger.io)
