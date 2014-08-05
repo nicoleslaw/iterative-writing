@@ -1,5 +1,7 @@
 # Notes
 
+* I don’t know what I’m doing. It’s great.
+
 ## Meta questions
 
 * What are the intentions of this project?
@@ -24,5 +26,15 @@
 
 ## Past posts
 
-* Baby Steps to Better Product Content
-* Working with Content in Waves
+* [Baby Steps to Better Product Content](http://www.swellcontent.com/2012/02/baby-steps-to-better-product-content/)
+* [Dreaming of Writing in Space](http://www.swellcontent.com/2012/12/dreaming-of-writing-in-space/)
+* [Editing the Past](http://www.swellcontent.com/2013/02/editing-the-past/)
+* [Working on Content with Developers](http://www.swellcontent.com/2012/04/working-with-developers/)
+* [Working with Content in Waves](http://www.swellcontent.com/2011/06/working-with-content-in-waves/)
+
+## Resources
+
+* [Fork-N-Go](http://jlord.github.io/forkngo/)
+* [Hyde](http://hyde.getpoole.com)
+* [Jekyll](http://jekyllrb.com/docs/quickstart/)
+* [Purl](http://p2pu.github.io/jekyll-course-experiment/)

@@ -5,6 +5,7 @@
 * [Deploy](http://aworkinglibrary.com/writing/deploy/), Mandy Brown
 * [Working in Public](http://chriscoyier.net/2012/09/23/working-in-public/), Chris Coyier
 * [Designing in the Open](http://bradfrostweb.com/blog/post/designing-in-the-open/), Brad Frost
+* [Unfinished](http://robertogreco.tumblr.com/post/6839277872/unfinished-brian-eno-and-konrad-glogowski), Roberto Greco
 * [Show Your Work](http://austinkleon.com/show-your-work/), Austin Kleon
 * [Reading is Fundamental Kickoff](http://danielmall.com/articles/rif-kickoff/), Dan Mall
 * [Working in Public from Day 1](http://18fblog.tumblr.com/post/93415834296/working-in-public-from-day-1), Eric Mill
