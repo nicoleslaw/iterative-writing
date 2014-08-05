@@ -2,9 +2,13 @@
 
 ## Introduction
 
+* What is iterative writing?
+* How is it different than regular old writing?
+* History v hypertext
+
 * Why write iteratively?
 * Who can benefit from this approach?
-* History v hypertext
+
 * Editing v iterating
 * General principles
 
