@@ -16,4 +16,4 @@ Nicole Fenton, [@nicoleslaw](http://twitter.com/nicoleslaw)
 
 ## Contact
 
-For bugs, typos, and feature requests, please create a GitHub issue or send me a pull request. If you have any questions about the project, feel free to email me at nicole at swellcontent.com.
+Want to see something added? Find a typo? [Open an issue](https://github.com/nicoleslaw/iterative-writing/issues) or send me a pull request. You can also email me at nicole at swellcontent.com.
