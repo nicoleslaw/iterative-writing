@@ -19,7 +19,7 @@ The day you ship the piece is the last time you touch it.
 
 ## Writing in public
 
-Share the work as you go.
+Share the work as you go. No map necessary.
 
 * Get over your fear of looking foolish. Embrace the mess.
 * Pay attention and take notes. Everything is an idea.
