@@ -5,15 +5,20 @@
 * Why write iteratively?
 * Who can benefit from this approach?
 * History v hypertext
+* Editing v iterating
+* General principles
 
 ## Process
 
 * Describe the various steps of the process.
+* What is an iteration?
+* Dealing with drafts.
 * Where does writing happen?
-* How do you keep it consistent and high-quality if you have multiple people involved?
+* Working with contributors.
 * When is it finished?
 
-## References
+## Resources
 
-* Resources
+* Tools
+* Further Reading
 * Glossary
