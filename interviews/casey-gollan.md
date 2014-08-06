@@ -2,7 +2,7 @@
 
 Hello, Casey! I’m curious about the relationship between writing and learning iteratively. I guess you could say this project is about Git too. Feel free to change the questions, or rearrange them. We’ll probably go back and forth 1–2 times in editing. Thanks!
 
-## Where did you first start writing on the web?
+## When did you first start writing on the web?
 
 ## When did you learn to use Git? Why?
 
