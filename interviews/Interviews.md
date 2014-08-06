@@ -1,14 +1,5 @@
 # Interviews
 
-## Personal stories
-
-* LiveJournal, Twitter, and Tumblr
-* Developers
-
-## Introduction
-
-I’m curious about the relationship between writing and editing in Git. I guess you could say that this project is about iterative writing and working in public.
-
 ## Interview questions
 
 Make a Markdown file with these questions. Use your name as the title and send it back as a pull request. You can edit the questions too. Have fun with it.

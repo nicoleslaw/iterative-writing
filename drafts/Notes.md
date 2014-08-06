@@ -24,6 +24,11 @@
 * Incremental changes, including additions, deletions, and editing (refactoring ideas)
 * Fiddling leads to larger ideas and more stable pages or cards of ideas
 
+## Personal stories
+
+* LiveJournal, Twitter, and Tumblr
+* Developers
+
 ## Past posts
 
 * [Baby Steps to Better Product Content](http://www.swellcontent.com/2012/02/baby-steps-to-better-product-content/)
