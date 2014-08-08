@@ -23,6 +23,13 @@
 * [iA Writer](http://www.iawriter.com)
 * [Markable](http://markable.in)
 
+## On community
+
+* [Community Design 101](http://howto.p2pu.org)
+* [Purl](http://p2pu.github.io/jekyll-course-experiment/)
+* [Argo Project](http://argoproject.org)
+* [Project Argo Field Report](http://contentsmagazine.com/articles/field-report-project-argo/), *Contents* Magazine
+
 ## Glossary
 
 * Iteration

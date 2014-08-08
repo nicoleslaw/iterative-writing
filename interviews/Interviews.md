@@ -1,6 +1,6 @@
 # Interviews
 
-## Interview questions
+## Questions
 
 Make a Markdown file with these questions. Use your name as the title and send it back as a pull request. You can edit the questions too. Have fun with it.
 
