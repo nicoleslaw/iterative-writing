@@ -22,6 +22,7 @@
 * [Draft](https://draftin.com)
 * [iA Writer](http://www.iawriter.com)
 * [Markable](http://markable.in)
+* [Atom](https://atom.io)
 
 ## On community
 

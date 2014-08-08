@@ -8,6 +8,7 @@
 * What should learners know how to do?
 * What questions should learners be able to answer?
 * What kinds of activities will show learners how to develop those skills?
+* Why does iterative writing matter?
 
 ## Principles
 
@@ -16,13 +17,15 @@
 * Not knowing
 * Unfinished, unfolding universe
 * Inherent value in information and experience
-* Throwing ideas away is part of learning
+* Shedding ideas is part of learning
+* Design is a process of articulation
 
 ## Shape
 
 * Small posts
 * Incremental changes, including additions, deletions, and editing (refactoring ideas)
-* Fiddling leads to larger ideas and more stable pages or cards of ideas
+* Fiddling leads to larger ideas and more stable chunks, cards, or pages of ideas
+* Something like an essay that keeps going
 
 ## Personal stories
 
