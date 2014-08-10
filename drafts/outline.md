@@ -7,10 +7,17 @@
 * History v hypertext
 
 * Why write iteratively?
+* Why not call it “agile content?”
 * Who can benefit from this approach?
 
 * Editing v iterating
-* General principles
+
+## Principles
+
+* Practice over theory
+* Collaboration over expertise
+* Learning over education
+* Flexibility over scalability
 
 ## Process
 
