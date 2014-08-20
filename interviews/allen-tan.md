@@ -14,6 +14,10 @@ I learned Git when I started working at Crush + Lovely. I was designing but also
 
 ## Has Git influenced your writing process? How?
 
+I wouldn’t say Git specifically, but the idea of versioning helps with not being afraid to rewrite – you can always go back and see what you had before.
+
+I think Git isn’t suited for anything more fine-grained than that, for me. It involves lots of swapping (of words, phrases, sentences) and reordering/restructuring, which doesn’t map neatly to Git’s model of lines.
+
 ## Where do you do most of your writing? What other tools or tricks are involved?
 
 ## Describe your process for me. How do you know when something is ready to publish? When is it done?
