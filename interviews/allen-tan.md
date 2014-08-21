@@ -6,9 +6,17 @@ A: Hi!
 
 ## When did you first start writing on the web?
 
+I think it was sometime in middle school. I had a Xanga and a Livejournal, both set to private. (Well, they had a couple public posts to not raise suspicion but all the real content was private.) I wrote everything in Windows Notepad because I didn’t trust the web editor not to crash. God, that was terrible.
+
 ## When did you learn to use Git? Why?
 
+I learned Git when I started working at Crush + Lovely. I was designing but also doing the markup and css, so I had to jump right into working on a team. At the time I only knew the bare minimum: pull, push, add, commit, and I learned typing into the command line based on what my coworkers told me over IM. (This is still how I learn to do things in Git.)
+
 ## Has Git influenced your writing process? How?
+
+I wouldn’t say Git specifically, but the idea of versioning helps with not being afraid to rewrite – you can always go back and see what you had before.
+
+I think Git isn’t suited for anything more fine-grained than that, for me. It involves lots of swapping (of words, phrases, sentences) and reordering/restructuring, which doesn’t map neatly to Git’s model of lines.
 
 ## Where do you do most of your writing? What other tools or tricks are involved?
 
