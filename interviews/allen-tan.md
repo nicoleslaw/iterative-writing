@@ -6,7 +6,7 @@ A: Hi!
 
 ## When did you first start writing on the web?
 
-I think it was sometime in middle school. I had a Xanga and a Livejournal, both set to private. (Well, they had a couple public posts to not raise suspicion but all the real content was private.) I wrote everything in Windows Notepad because I didn’t trust the web editor not to crash. God, that was terrible.
+I think it was sometime in middle school. I had a Xanga and a Livejournal that were both set to private. (Well, they had a couple public posts to not raise suspicion but all the real content was private.) I wrote everything in Windows Notepad because I didn’t trust the web editor not to crash. God, that was terrible.
 
 ## When did you learn to use Git? Why?
 
@@ -20,6 +20,12 @@ I think Git isn’t suited for anything more fine-grained than that, for me. It 
 
 ## Where do you do most of your writing? What other tools or tricks are involved?
 
+I like iA Writer! I like Pages! I have paper pads that are tall and just wide enough for jotting a single column of bullet points. I dislike Google Docs but it’s better than emailing other people my drafts like a barbarian.
+
+I learned recently to take lots of breaks. This was pretty huge for me, because before that I would just sit and stare and get frustrated. It never occurred to me to stop and go do something else for a bit, to lull your brain into loosening up.
+
+I pace a lot. For a while I had a wireless keyboard hooked up to my iPhone because I can sit on the floor or lie down while writing, which was weird enough to trick myself into not thinking it was work. Windows and sunlight is helpful. Music is not.
+
 ## Describe your process for me. How do you know when something is ready to publish? When is it done?
 
 How it begins varies a lot. Sometimes I work on little bits and fragments – putting together sentences that I like, jotting down comments on research – and then try to sew it up into some coherent order. It can take a while before I have enough pieces for a piece, and I have lots of orphans lying around waiting to be used. Other times I know exactly how a piece needs to go, I don’t really use outlines to map out structure but I see it in my head, and I just need to get it down.
@@ -31,3 +37,7 @@ Once it gets out of its weird larval mutating alien phase, then I start doing pa
 It’s done when I stop wanting to change it, I guess! When I put it up online and see the words in the layout, I can spot a lot of problems. When I fix them, it’s probably ready.
 
 ## How do you decide when to work in public?
+
+Usually because someone asks, or because I’m working on a draft that I think a person in particular would appreciate. (And/or if there’s someone I can get line notes from.) But I’ve usually thought about the piece for a while at that point.
+
+I have no idea how people start from scratch in public. These are the same people who do improv.
